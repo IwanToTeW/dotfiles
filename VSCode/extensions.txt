@@ -1,0 +1,10 @@
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension calebporzio.better-phpunit
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension junstyle.php-cs-fixer
+code --install-extension k--kato.intellij-idea-keybindings
+code --install-extension MehediDracula.php-namespace-resolver
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension patbenatar.advanced-new-file
+code --install-extension sleistner.vscode-fileutils
